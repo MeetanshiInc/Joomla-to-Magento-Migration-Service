@@ -15,4 +15,4 @@ Magento offers certain features like advanced reporting, advanced security, bett
 * Advanced security
 * No data loss
 
-For more information, visit: [https://meetanshi.com/joomla-to-magento-migration-service.html](https://meetanshi.com/joomla-to-magento-migration-service.html)
+For more information, visit: ***[https://meetanshi.com/joomla-to-magento-migration-service.html](https://meetanshi.com/joomla-to-magento-migration-service.html)***
